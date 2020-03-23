@@ -21,14 +21,15 @@ Commerically available solution
 ### Standard Baseball Cap
 ![Standard Baseball Cap](/DOCU/cap.jpg)
 
-
 ## Design File
 ![Link to SVG File](/visor_clipon_complete_v2.svg)
 
 ![Image](/DOCU/visor_clipon_compete_v2.png)
 
 ## Instructions
-- Laser cut the parts, attach the clips to the 3 dslots with the hooks in the same direction.
+- Download the whole repository
+- Laser cut the visor_clipon_complete_v2.svg
+- Attach the clips to the 3 slots with the hooks in the same direction.
 - Punch Letter-sized transparent shield with standard American 3-Hole Punch.
 - Attach Shield to holder by pushing the holes over the hooks.
 - Attach to Cap by sliding the holder onto cap
