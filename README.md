@@ -48,14 +48,13 @@ Commerically available solution
 - Attach to cap by sliding the holder onto cap
 
 ## Safety Considerations
-- This is obviously not apparoved medical supply. But based on your cirscumstances it it significantly better then nothing.
+- This is obviously not approved medical supply. But based on your circumstances it it significantly better then nothing.
 - Thought was given to the fact that touching your face is bad. That's why we picked a baseball cap as the base (Besides everybody has one...) because any construction that wraps around your head is prone to slipping and adjusting....
 - There is a minimum amount of open space around the attachment holes. Can be fixed with tape if this is seen as a risk.
-- The visor sould be reusable if washed/desinfected in soap-water. For the clip it depends on the material. Acryic might be desinfectable, plywood is more tricky and should probably be disaposed in the correct way after use.
+- The visor sould be reusable if washed/desinfected in soap-water. For the clip it depends on the material. Acryic might be desinfectable, plywood is more tricky and should probably be disposed in the correct way after use.
 
 ## Alternatives
-
-3D Printable Solutions
+### 3D Printable Solutions
 
 Prusa Printable Shield
 [Prusa Printable Shield](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2?fbclid=IwAR09kaNTC28TPet6-zJQwPoMIv1Yob-L-BAHOmYe-wrqgnOn5zIsohTxGzE)
