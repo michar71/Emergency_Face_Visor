@@ -35,9 +35,9 @@ Commerically available solution
 ![Standard Baseball Cap](/DOCU/cap.jpg)
 
 ## Design File
-![Link to SVG File](/visor_clipon_complete_v2.svg)
+![Link to SVG File](/visor_clipon_complete_v3.svg)
 
-![Image](/DOCU/visor_clipon_compete_v2.png)
+![Image](/DOCU/visor_clipon_compete_v3.png)
 
 ## Instructions
 - Download the whole repository
