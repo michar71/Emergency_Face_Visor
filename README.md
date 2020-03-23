@@ -47,6 +47,13 @@ Commerically available solution
 - Attach shield to holder by pushing the holes over the hooks.
 - Attach to cap by sliding the holder onto cap
 
+## Notes on Laser-Cutting
+- We use 3mm (Actual thickness 2.74mm) Plywood
+- Cutting at 36% Power with 10mm/sec on K40
+- Make sure to do a test-fit for the clip-on tabs. Depending on material thickness the slots mightr need adjustment !
+- If sizes need to be adjusted due to different material thickness the attachment clips are parameterized in Freecad, the slots on the big part are easiest adjusted by creating a copy of the slot in the middle, modifying it and replacing the existing slots in Inkscape.
+(Adding the slots to the CAD-Model makes it hard to still control the curvature....)
+
 ## Safety Considerations
 - This is obviously not approved medical supply. But based on your circumstances it it significantly better then nothing.
 - Thought was given to the fact that touching your face is bad. That's why we picked a baseball cap as the base (Besides everybody has one...) because any construction that wraps around your head is prone to slipping and adjusting....
@@ -61,6 +68,10 @@ Prusa Printable Shield
 
 ## Feedback
 e-mail:Michael-Hartmann@gmx.net
+
+## Version History
+- V1.0 Inital Design
+- V2.0 Better Wrap-Around, Small hooks to retain shield, accomodate thicker material, Optimized Shape
 
 ## Licence
 Released under Creative Commons Licence, no attribution nessassary.
