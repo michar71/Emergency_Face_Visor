@@ -14,6 +14,10 @@ Commerically available solution
 - Reusable if possible
 - Secure attachment to head to reduce readjusting
 - Standard Materials/Tools
+- Easily printable on cheap K40 lasercutters
+- Includes 6x template that cuts on 9" x 11" bed
+- Using mostly available 3mm (Actual 2.72mm) Plywood or acrylic
+- CAD Files are designed with FreeCAD
 
 ### Standard Hole Punch Press
 ![Standard Punch Press](/DOCU/punch.jpg)
@@ -31,8 +35,8 @@ Commerically available solution
 - Laser cut the visor_clipon_complete_v2.svg
 - Attach the clips to the 3 slots with the hooks in the same direction.
 - Punch Letter-sized transparent shield with standard American 3-Hole Punch.
-- Attach Shield to holder by pushing the holes over the hooks.
-- Attach to Cap by sliding the holder onto cap
+- Attach shield to holder by pushing the holes over the hooks.
+- Attach to cap by sliding the holder onto cap
 
 ## Safety Considerations
 - This is obviously not apparoved medical supply. But based on your cirscumstances it it significantly better then nothing.
