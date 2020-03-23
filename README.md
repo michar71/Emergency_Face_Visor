@@ -15,15 +15,17 @@ Commerically available solution
 - Secure attachment to head to reduce readjusting
 - Standard Materials/Tools
 
+### Standard Hole Punch Press
 ![Standard Punch Press](/DOCU/punch.jpg)
 
+### Standard Baseball Cap
 ![Standard Baseball Cap](/DOCU/cap.jpg)
 
 
 ## Design File
 ![Link to SVG File](/visor_clipon_complete_v2.svg)
 
-![Image](/DOCU/visor_clipon_complete_v2.png)
+![Image](/DOCU/visor_clipon_compete_v2.png)
 
 ## Instructions
 - Laser cut the parts, attach the clips to the 3 dslots with the hooks in the same direction.
