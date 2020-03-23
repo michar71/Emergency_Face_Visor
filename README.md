@@ -1,5 +1,9 @@
 # Emergency Face Visor
  Emergency Face Visor Design for Protection against Droplets in Face-To-Face Situations
+ This might not be the optimal solution, feel free to improve or provide feedback.
+
+ There is also ongoing discussion that the curvature matters (protection from the side, where the air flow comes from...). If anybody has data please let me know.
+ At the moment design is driven by material availability. 
 
 ## Pictures
 ![Image 1](/DOCU/pic1.jpg)
@@ -50,6 +54,9 @@ Commerically available solution
 
 Prusa Printable Shield
 [Prusa Printable Shield](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2?fbclid=IwAR09kaNTC28TPet6-zJQwPoMIv1Yob-L-BAHOmYe-wrqgnOn5zIsohTxGzE)
+
+## Feedback
+e-mail:Michael-Hartmann@gmx.net
 
 ## Licence
 Released under Creative Commons Licence, no attribution nessassary.
