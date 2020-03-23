@@ -1,9 +1,14 @@
 # Emergency Face Visor
- Emergency Face Visor Design for Protection against Droplets in Face-To-Face Situations
- This might not be the optimal solution, feel free to improve or provide feedback.
+ Emergency Face Visor Design for Protection against Droplets in Face-To-Face Situations.
 
- There is also ongoing discussion that the curvature matters (protection from the side, where the air flow comes from...). If anybody has data please let me know.
- At the moment design is driven by material availability. 
+ This might not be the optimal solution, feel free to improve or provide feedback.
+This has also not gone through stringent medical evaluation. (Obviously...)
+
+ There is ongoing discussion that the curvature matters (protection from the side, where the air flow comes from...). If anybody has data please let me know.
+ At the moment design is driven by material availability. (Shield size is US Letter...)
+
+Right now (in the US) the main target for this design is people that have face-to-face contact (Grocery workers, restaurant-takeout etc.) to protect them or the customers.
+As the situation changes it might be nessassary to push designs like these into medical use. 
 
 ## Pictures
 ![Image 1](/DOCU/pic1.jpg)
