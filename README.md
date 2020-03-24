@@ -43,7 +43,7 @@ Commerically available solution
 ## Instructions
 - Download the whole repository
 - Laser cut the visor_clipon_complete_v3.svg
-- Attach the clips to the 3 slots with the hooks in the same direction.
+- Attach the clips to the 3 slots (Left, Right/Middle) with the hooks in the same direction upwards.
 - Punch Letter-sized transparent shield with standard American 3-Hole Punch.
 - Attach shield to holder by pushing the holes over the hooks.
 - Attach to cap by sliding the holder onto cap
