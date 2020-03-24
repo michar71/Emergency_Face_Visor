@@ -27,6 +27,7 @@ Commerically available solution
 - Includes 6x template that cuts on 9" x 11" bed
 - Using mostly available 3mm (Actual 2.72mm) Plywood or acrylic
 - CAD Files are designed with FreeCAD
+- We tried an even simpler design with attachment points directly on the large part but the shield became too wobbly so we went back to the 4-part solution (Which uses the same amount of material)
 
 ### Standard Hole Punch Press
 ![Standard Punch Press](/DOCU/punch.jpg)
